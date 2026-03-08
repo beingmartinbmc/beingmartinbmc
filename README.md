@@ -89,8 +89,17 @@ Also, I'm mostly here just to avoid the chaos of Facebook and keep things a bit 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beingmartinbmc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingmartinbmc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beingmartinbmc&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beingmartinbmc&theme=tokyonight" alt="Stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beingmartinbmc&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beingmartinbmc&theme=tokyonight" alt="Top Languages by Repo" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beingmartinbmc&theme=tokyonight" alt="Top Languages by Commit" height="170" />
 </p>
 
 <p align="center">
