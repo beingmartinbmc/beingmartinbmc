@@ -29,104 +29,11 @@ Also, I'm mostly here just to avoid the chaos of Facebook and keep things a bit 
 
 ## 📦 Open Source Packages
 
-### NPM
-
-<table>
-  <tr>
-    <td><strong>node-actuator-lite</strong></td>
-    <td>Spring Boot Actuator for Node.js — health, env, threaddump, heapdump, prometheus</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://www.npmjs.com/package/node-actuator-lite">
-        <img src="https://img.shields.io/npm/v/node-actuator-lite?style=flat-square&logo=npm&color=cb3837&label=version" alt="version" />
-        <img src="https://img.shields.io/npm/dm/node-actuator-lite?style=flat-square&logo=npm&color=cb3837&label=downloads/month" alt="downloads" />
-        <img src="https://img.shields.io/npm/dt/node-actuator-lite?style=flat-square&logo=npm&color=cb3837&label=total" alt="total" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><strong>roastcode</strong></td>
-    <td>🔥 CLI tool that humorously roasts your code, commits, and diffs with AI-powered savagery</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://www.npmjs.com/package/roastcode">
-        <img src="https://img.shields.io/npm/v/roastcode?style=flat-square&logo=npm&color=cb3837&label=version" alt="version" />
-        <img src="https://img.shields.io/npm/dm/roastcode?style=flat-square&logo=npm&color=cb3837&label=downloads/month" alt="downloads" />
-        <img src="https://img.shields.io/npm/dt/roastcode?style=flat-square&logo=npm&color=cb3837&label=total" alt="total" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><strong>meme-as-a-service</strong></td>
-    <td>Fun, lightweight service for generating and serving memes programmatically</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://www.npmjs.com/package/meme-as-a-service">
-        <img src="https://img.shields.io/npm/v/meme-as-a-service?style=flat-square&logo=npm&color=cb3837&label=version" alt="version" />
-        <img src="https://img.shields.io/npm/dm/meme-as-a-service?style=flat-square&logo=npm&color=cb3837&label=downloads/month" alt="downloads" />
-        <img src="https://img.shields.io/npm/dt/meme-as-a-service?style=flat-square&logo=npm&color=cb3837&label=total" alt="total" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><strong>readme-cinema</strong></td>
-    <td>🎬 Transform README files into cinematic terminal experiences with ASCII art and typewriter effects</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://www.npmjs.com/package/readme-cinema">
-        <img src="https://img.shields.io/npm/v/readme-cinema?style=flat-square&logo=npm&color=cb3837&label=version" alt="version" />
-        <img src="https://img.shields.io/npm/dm/readme-cinema?style=flat-square&logo=npm&color=cb3837&label=downloads/week" alt="downloads" />
-        <img src="https://img.shields.io/npm/dt/readme-cinema?style=flat-square&logo=npm&color=cb3837&label=total" alt="total" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td><strong>git-history-ui</strong></td>
-    <td>Beautiful web UI for visualizing git history with interactive commit graphs and diff visualization</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://www.npmjs.com/package/git-history-ui">
-        <img src="https://img.shields.io/npm/v/git-history-ui?style=flat-square&logo=npm&color=cb3837&label=version" alt="version" />
-        <img src="https://img.shields.io/npm/dm/git-history-ui?style=flat-square&logo=npm&color=cb3837&label=downloads/week" alt="downloads" />
-        <img src="https://img.shields.io/npm/dt/git-history-ui?style=flat-square&logo=npm&color=cb3837&label=total" alt="total" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### Maven Central
-
-<table>
-  <tr>
-    <td><strong>eli5</strong></td>
-    <td>Explain Like I'm 5 — AI-powered annotations for Java code documentation</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <a href="https://central.sonatype.com/artifact/io.github.beingmartinbmc/eli5/1.0.1/overview">
-        <img src="https://img.shields.io/maven-central/v/io.github.beingmartinbmc/eli5?style=flat-square&logo=apache-maven&color=c71a36&label=version" alt="version" />
-        <img src="https://img.shields.io/badge/Java-11+-orange?style=flat-square&logo=java&color=ED8B00" alt="java" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
+| Package | Description | Version | Downloads |
+|---------|-------------|---------|-----------|
+| [**node-actuator-lite**](https://www.npmjs.com/package/node-actuator-lite) | Spring Boot Actuator for Node.js — health, env, prometheus | ![version](https://img.shields.io/npm/v/node-actuator-lite?style=flat-square&color=cb3837) | ![downloads](https://img.shields.io/npm/dt/node-actuator-lite?style=flat-square&color=0969da&label=total) |
+| [**roastcode**](https://www.npmjs.com/package/roastcode) | 🔥 AI-powered CLI that roasts your code, commits, and diffs | ![version](https://img.shields.io/npm/v/roastcode?style=flat-square&color=cb3837) | ![downloads](https://img.shields.io/npm/dt/roastcode?style=flat-square&color=0969da&label=total) |
+| [**meme-as-a-service**](https://www.npmjs.com/package/meme-as-a-service) | Generate and serve memes programmatically | ![version](https://img.shields.io/npm/v/meme-as-a-service?style=flat-square&color=cb3837) | ![downloads](https://img.shields.io/npm/dt/meme-as-a-service?style=flat-square&color=0969da&label=total) |
+| [**readme-cinema**](https://www.npmjs.com/package/readme-cinema) | 🎬 Transform READMEs into cinematic terminal experiences | ![version](https://img.shields.io/npm/v/readme-cinema?style=flat-square&color=cb3837) | ![downloads](https://img.shields.io/npm/dt/readme-cinema?style=flat-square&color=0969da&label=total) |
+| [**git-history-ui**](https://www.npmjs.com/package/git-history-ui) | Beautiful web UI for visualizing git history and diffs | ![version](https://img.shields.io/npm/v/git-history-ui?style=flat-square&color=cb3837) | ![downloads](https://img.shields.io/npm/dt/git-history-ui?style=flat-square&color=0969da&label=total) |
+| [**eli5**](https://central.sonatype.com/artifact/io.github.beingmartinbmc/eli5/1.0.1/overview) | Explain Like I'm 5 — AI annotations for Java docs | ![version](https://img.shields.io/maven-central/v/io.github.beingmartinbmc/eli5?style=flat-square&color=c71a36) | ![java](https://img.shields.io/badge/Java-11+-ED8B00?style=flat-square) |
