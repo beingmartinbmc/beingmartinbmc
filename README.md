@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-Backend architectures and AI projects are the things that excite me the most. I enjoy designing scalable systems, building APIs, and experimenting with AI-driven ideas that turn data into useful insights. Currently working as **SMTS at Salesforce**, where I focus on solving large-scale engineering problems and building reliable backend systems.
+I'm a **Senior Member of Technical Staff at Salesforce**, where I work on large-scale distributed systems and backend architecture. My core interests lie in designing resilient APIs, building high-throughput data pipelines, and applying AI to solve real-world engineering challenges.
 
-Outside of work, I like building side projects that combine backend engineering with AI — from developer tools to experimental apps that explore new ways software can assist people.
+Outside of work, I channel the same energy into open-source tools and side projects — combining backend engineering with AI to build things like developer utilities, intelligent apps, and experimental products that push what software can do.
 
-Also, I'm mostly here just to avoid the chaos of Facebook and keep things a bit more technical.
+When I'm not writing code, you'll still find me here — mostly because GitHub has fewer memes than Facebook and a lot more pull requests.
 
 ---
 
