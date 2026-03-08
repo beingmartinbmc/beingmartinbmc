@@ -22,6 +22,7 @@ Also, I'm mostly here just to avoid the chaos of Facebook and keep things a bit 
 |---------|-------------|------|
 | 💘 **DateSense** | AI-powered dating conversation analyzer — attraction score, ghosting risk, reply suggestions | [Live](https://beingmartinbmc.github.io/DateSense/) · [Repo](https://github.com/beingmartinbmc/DateSense) |
 | 🌐 **Portfolio** | Personal portfolio site built with Angular | [Repo](https://github.com/beingmartinbmc/Portfolio) |
+| 🙏 **Religious GPT** | Learn religion in an AI way — explore teachings from Bhagavad Gita, Vedas, Quran, Bible, Tripitaka, and more | [Live](https://beingmartinbmc.github.io/epic/) · [Repo](https://github.com/beingmartinbmc/epic) |
 | 📊 **Algorithm Visualizer** | Interactive algorithm visualization tool | [Repo](https://github.com/beingmartinbmc/algorithm-visualizer) |
 
 ---
