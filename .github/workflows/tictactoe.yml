@@ -1,0 +1,73 @@
+name: README Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+# Only react to issues whose title starts with "ttt-"
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'ttt-')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Parse command from issue title
+        id: parse
+        run: |
+          TITLE="${{ github.event.issue.title }}"
+          echo "Raw title: $TITLE"
+          case "$TITLE" in
+            ttt-reset)        CMD="reset" ;;
+            ttt-move-[0-8])   CMD="move-${TITLE##*-}" ;;
+            *)                CMD="render" ;;
+          esac
+          echo "cmd=$CMD" >> "$GITHUB_OUTPUT"
+          echo "Resolved command: $CMD"
+
+      - name: Run game engine
+        id: game
+        env:
+          GAME_REPO: ${{ github.repository }}
+        run: node game/tictactoe.js "${{ steps.parse.outputs.cmd }}"
+
+      - name: Commit updated board
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md game/state.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🎮 Tic-Tac-Toe: ${{ steps.parse.outputs.cmd }} (by @${{ github.event.issue.user.login }})"
+            git push
+          fi
+
+      - name: Comment result and close issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const message = `${{ toJSON(steps.game.outputs.message) }}`;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `${message}\n\nThanks for playing! Head back to the [profile README](https://github.com/${context.repo.owner}) and refresh to see the updated board. 🎮`,
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: "closed",
+            });

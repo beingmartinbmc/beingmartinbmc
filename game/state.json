@@ -1,0 +1,21 @@
+{
+  "board": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "status": "live",
+  "lastMove": null,
+  "stats": {
+    "wins": 0,
+    "losses": 0,
+    "draws": 0
+  },
+  "updatedAt": "2026-06-21T18:31:09.242Z"
+}

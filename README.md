@@ -12,6 +12,40 @@
 
 ---
 
+<!-- TICTACTOE:START -->
+## 🎮 Play Me at Tic-Tac-Toe
+
+> You're **❌** vs an **unbeatable minimax bot ⭕**. Click an empty square — it opens a pre-filled issue; just submit it and the board updates automatically. _(Give it a few seconds for the Action to run, then refresh.)_
+
+<p align="center">
+  <table>
+      <tr>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-0&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 0" /></a></td>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-1&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 1" /></a></td>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-2&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 2" /></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-3&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 3" /></a></td>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-4&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 4" /></a></td>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-5&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 5" /></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-6&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 6" /></a></td>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-7&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 7" /></a></td>
+        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-8&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 8" /></a></td>
+      </tr>
+  </table>
+</p>
+
+<p align="center">🟢 <b>Your move.</b> You're ❌ — click any empty square to play.</p>
+
+<p align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-reset&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/%E2%96%B6%20NEW%20GAME-6C63FF?style=for-the-badge&labelColor=0D1117" alt="New Game" /></a></p>
+
+<p align="center"><sub>🏆 Wins: <b>0</b> &nbsp;|&nbsp; 💀 Losses: <b>0</b> &nbsp;|&nbsp; 🤝 Draws: <b>0</b></sub></p>
+<!-- TICTACTOE:END -->
+
+---
+
 ## 👨‍💻 About Me
 
 I am a backend-focused engineer and AI builder who enjoys turning complex systems into reliable, useful products. I work as an **SMTS at Salesforce**, where I focus on large-scale backend engineering, resilient APIs, and platform architecture.
