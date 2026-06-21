@@ -1,21 +1,21 @@
 {
   "board": [
+    "X",
     "",
     "",
     "",
-    "",
-    "",
+    "O",
     "",
     "",
     "",
     ""
   ],
   "status": "live",
-  "lastMove": null,
+  "lastMove": 4,
   "stats": {
     "wins": 0,
     "losses": 0,
     "draws": 0
   },
-  "updatedAt": "2026-06-21T18:35:45.668Z"
+  "updatedAt": "2026-06-21T18:37:32.907Z"
 }
