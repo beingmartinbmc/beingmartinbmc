@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0D1117&height=200&section=header&text=Ankit%20Sharma&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=Backend%20Architect%20%2F%20AI%20Builder%20%2F%20Open%20Source&descAlignY=55&descSize=16&animation=fadeIn" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:0D1117&height=200&section=header&text=Ankit%20Sharma&fontColor=ffffff&fontSize=58&fontAlignY=35&desc=Backend%20Architect%20%2F%20AI%20Builder%20%2F%20Open%20Source&descAlignY=55&descSize=16&animation=fadeIn&v=2" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ankit;SMTS+%40+Salesforce;Backend+Architect+%7C+AI+Builder;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ankit;SMTS+%40+Salesforce;Backend+Architect+%7C+AI+Builder;Open+Source+Contributor&v=2" alt="Typing SVG" />
 </p>
 
 <p align="center">
