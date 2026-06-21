@@ -156,8 +156,12 @@ This profile is where I share shipped projects, reusable packages, and experimen
 
 ---
 
-## 🐍 Watch the Snake Eat My Contributions
+## 🕹️ Watch Pac-Man Eat My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </p>
