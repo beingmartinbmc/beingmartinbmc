@@ -148,10 +148,10 @@ This profile is where I share shipped projects, reusable packages, and experimen
 
 ---
 
-## 🏆 Achievements
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=beingmartinbmc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=beingmartinbmc&theme=tokyo-night&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%" />
 </p>
 
 ---
@@ -159,5 +159,5 @@ This profile is where I share shipped projects, reusable packages, and experimen
 ## 🐍 Watch the Snake Eat My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/github-contribution-grid-snake-dark.svg?v=2" alt="Contribution Snake" />
 </p>
