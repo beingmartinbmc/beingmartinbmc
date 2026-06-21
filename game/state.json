@@ -6,16 +6,16 @@
     "",
     "O",
     "X",
-    "",
-    "",
+    "O",
+    "X",
     ""
   ],
   "status": "live",
-  "lastMove": 1,
+  "lastMove": 6,
   "stats": {
     "wins": 0,
     "losses": 0,
     "draws": 0
   },
-  "updatedAt": "2026-06-21T18:38:06.312Z"
+  "updatedAt": "2026-06-21T18:38:36.051Z"
 }

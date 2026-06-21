@@ -30,8 +30,8 @@
         <td align="center"><img src="https://img.shields.io/badge/-%E2%9D%8C-6C63FF?style=for-the-badge&labelColor=0D1117" alt="X" /></td>
       </tr>
       <tr>
-        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-6&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 6" /></a></td>
-        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-7&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 7" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/-%E2%AD%95-FF6584?style=for-the-badge&labelColor=0D1117" alt="O" /></td>
+        <td align="center"><img src="https://img.shields.io/badge/-%E2%9D%8C-6C63FF?style=for-the-badge&labelColor=0D1117" alt="X" /></td>
         <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-8&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 8" /></a></td>
       </tr>
   </table>
