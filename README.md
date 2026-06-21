@@ -22,26 +22,26 @@
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/-%E2%9D%8C-6C63FF?style=for-the-badge&labelColor=0D1117" alt="X" /></td>
         <td align="center"><img src="https://img.shields.io/badge/-%E2%AD%95-FF6584?style=for-the-badge&labelColor=0D1117" alt="O" /></td>
-        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-2&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 2" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/-%E2%AD%95-FF6584?style=for-the-badge&labelColor=0D1117" alt="O" /></td>
       </tr>
       <tr>
-        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-3&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 3" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="empty" /></td>
         <td align="center"><img src="https://img.shields.io/badge/-%E2%AD%95-FF6584?style=for-the-badge&labelColor=0D1117" alt="O" /></td>
         <td align="center"><img src="https://img.shields.io/badge/-%E2%9D%8C-6C63FF?style=for-the-badge&labelColor=0D1117" alt="X" /></td>
       </tr>
       <tr>
         <td align="center"><img src="https://img.shields.io/badge/-%E2%AD%95-FF6584?style=for-the-badge&labelColor=0D1117" alt="O" /></td>
         <td align="center"><img src="https://img.shields.io/badge/-%E2%9D%8C-6C63FF?style=for-the-badge&labelColor=0D1117" alt="X" /></td>
-        <td align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-move-8&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/-%20%E2%80%A2%20-1A1B27?style=for-the-badge&labelColor=1A1B27" alt="play cell 8" /></a></td>
+        <td align="center"><img src="https://img.shields.io/badge/-%E2%9D%8C-6C63FF?style=for-the-badge&labelColor=0D1117" alt="X" /></td>
       </tr>
   </table>
 </p>
 
-<p align="center">🟢 <b>Your move.</b> You're ❌ — click any empty square to play.</p>
+<p align="center">🤖 <b>Bot wins.</b> The AI is unbeatable — best you can do is force a draw.</p>
 
 <p align="center"><a href="https://github.com/beingmartinbmc/beingmartinbmc/issues/new?title=ttt-reset&body=Just%20press%20**Submit%20new%20issue**%20below%20to%20make%20your%20move%20%E2%80%94%20a%20bot%20will%20take%20it%20from%20here%20and%20close%20this%20automatically.%20%F0%9F%A4%96"><img src="https://img.shields.io/badge/%E2%96%B6%20NEW%20GAME-6C63FF?style=for-the-badge&labelColor=0D1117" alt="New Game" /></a></p>
 
-<p align="center"><sub>🏆 Wins: <b>0</b> &nbsp;|&nbsp; 💀 Losses: <b>0</b> &nbsp;|&nbsp; 🤝 Draws: <b>0</b></sub></p>
+<p align="center"><sub>🏆 Wins: <b>0</b> &nbsp;|&nbsp; 💀 Losses: <b>1</b> &nbsp;|&nbsp; 🤝 Draws: <b>0</b></sub></p>
 <!-- TICTACTOE:END -->
 
 ---
