@@ -1,4 +1,6 @@
-# Ankit Sharma
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D1117,50:6C63FF,100:0D1117&height=220&section=header&text=Ankit%20Sharma&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=%3C%20Backend%20Architect%20%2F%20AI%20Builder%20%2F%20Open%20Source%20%2F%3E&descAlignY=60&descSize=16&animation=twinkling" alt="Header Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Ankit;SMTS+%40+Salesforce;Backend+Architect+%7C+AI+Builder;Open+Source+Contributor" alt="Typing SVG" />
@@ -142,4 +144,20 @@ This profile is where I share shipped projects, reusable packages, and experimen
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=beingmartinbmc&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=beingmartinbmc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🐍 Watch the Snake Eat My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
