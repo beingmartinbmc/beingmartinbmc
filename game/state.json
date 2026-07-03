@@ -1,26 +1,21 @@
 {
   "board": [
-    "X",
-    "O",
-    "O",
     "",
-    "O",
-    "X",
-    "O",
-    "X",
-    "X"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
-  "status": "lose",
-  "lastMove": 2,
+  "status": "live",
+  "lastMove": null,
   "stats": {
     "wins": 0,
     "losses": 1,
     "draws": 0
   },
-  "updatedAt": "2026-06-21T18:39:03.955Z",
-  "winLine": [
-    2,
-    4,
-    6
-  ]
+  "updatedAt": "2026-07-03T06:08:03.391Z"
 }
