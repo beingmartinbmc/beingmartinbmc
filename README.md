@@ -18,25 +18,17 @@
 
 ---
 
-## 👾 PLAYER ONE // SYSTEM BOOT
+## 👋 ABOUT THE PLAYER
 
-```text
-> load_player --id beingmartinbmc
+I'm **Ankit**, a backend engineer and AI builder who likes making complex systems boringly reliable. As an **SMTS at Salesforce**, I work on resilient services, APIs, automation, and platform engineering.
 
-[ OK ] CLASS       Backend Engineer
-[ OK ] GUILD       SMTS @ Salesforce
-[ OK ] PASSIVE     Makes complex systems boringly reliable
-[ OK ] LOADOUT     APIs | Automation | Observability | Applied AI
-[ OK ] ALIGNMENT   Open Source
-[ .. ] STATUS      Shipping the next useful thing
-```
+Outside work, I ship open-source developer tools and turn applied-AI experiments into products people can actually use.
 
-### `CURRENT OBJECTIVES`
-
-- `01` Build AI tools that graduate from demo to daily use
-- `02` Design services that explain themselves when they fail
-- `03` Ship small open-source tools with sharp, boring APIs
-- `04` Turn ambitious side quests into working products
+<p align="center">
+  <img src="https://img.shields.io/github/followers/beingmartinbmc?style=for-the-badge&logo=github&label=Party%20Members&color=6C63FF&labelColor=0D1117" alt="GitHub followers" />
+  <img src="https://img.shields.io/npm/v/git-history-ui?style=for-the-badge&logo=npm&label=Latest%20Drop&color=CB3837&labelColor=0D1117" alt="Latest git-history-ui version" />
+  <img src="https://img.shields.io/npm/dt/jambavan?style=for-the-badge&logo=npm&label=Jambavan%20Downloads&color=00BFA6&labelColor=0D1117" alt="Jambavan total downloads" />
+</p>
 
 ---
 
