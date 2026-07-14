@@ -18,35 +18,111 @@
 
 ---
 
-## 👋 ABOUT THE PLAYER
+## SYSTEM BOOT
 
-I'm **Ankit**, a backend engineer and AI builder who likes making complex systems boringly reliable. As an **SMTS at Salesforce**, I work on resilient services, APIs, automation, and platform engineering.
-
-Outside work, I ship open-source developer tools and turn applied-AI experiments into products people can actually use.
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/beingmartinbmc?style=for-the-badge&logo=github&label=Party%20Members&color=6C63FF&labelColor=0D1117" alt="GitHub followers" />
-  <img src="https://img.shields.io/npm/v/git-history-ui?style=for-the-badge&logo=npm&label=Latest%20Drop&color=CB3837&labelColor=0D1117" alt="Latest git-history-ui version" />
-  <img src="https://img.shields.io/npm/dt/jambavan?style=for-the-badge&logo=npm&label=Jambavan%20Downloads&color=00BFA6&labelColor=0D1117" alt="Jambavan total downloads" />
-</p>
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <pre>BOOT TARGET     : production-grade engineering profile
+PLAYER          : Ankit Sharma
+CURRENT ROLE    : Senior Member of Technical Staff @ Salesforce
+PRIMARY CLASS   : Backend / Platform Engineer
+SPECIAL ABILITY : turning complex systems into reliable workflows
+ACTIVE QUEST    : APIs, automation, observability, applied AI products</pre>
+      <p>I build backend and platform systems that are easier to operate, debug, and trust under production pressure.</p>
+      <p>My work sits where service architecture, API design, automation, observability, and applied AI meet. The goal is not just to ship features. The goal is to build systems with clear contracts, useful signals, controlled failure modes, and enough leverage that teams can move faster without flying blind.</p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>HUD Status</h3>
+      <table>
+        <tr><td>Backend systems</td><td><b>ONLINE</b></td></tr>
+        <tr><td>Platform engineering</td><td><b>ONLINE</b></td></tr>
+        <tr><td>API design</td><td><b>ONLINE</b></td></tr>
+        <tr><td>Production reliability</td><td><b>ONLINE</b></td></tr>
+        <tr><td>Observability/debugging</td><td><b>ONLINE</b></td></tr>
+        <tr><td>Applied AI tooling</td><td><b>ONLINE</b></td></tr>
+      </table>
+      <p align="center">
+        <img src="https://img.shields.io/github/followers/beingmartinbmc?style=for-the-badge&logo=github&label=Party%20Members&color=6C63FF&labelColor=0D1117" alt="GitHub followers" />
+        <img src="https://img.shields.io/npm/v/git-history-ui?style=for-the-badge&logo=npm&label=Latest%20Drop&color=CB3837&labelColor=0D1117" alt="Latest git-history-ui version" />
+        <img src="https://img.shields.io/npm/dt/jambavan?style=for-the-badge&logo=npm&label=Jambavan%20Downloads&color=00BFA6&labelColor=0D1117" alt="Jambavan total downloads" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🕹️ ARCADE ARENA // CONTRIBUTION RUN
+## PLAYER PROFILE
 
-<details open>
-<summary><b>🟡 PAC-MAN MODE</b> — eat the commits, dodge the ghosts</summary>
-<br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating Ankit's GitHub contributions" src="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</details>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Class</h3>
+      <p><b>Backend / Platform Engineer</b></p>
+      <p>Reliable services, clean APIs, automation systems, and operational tooling.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Playstyle</h3>
+      <p><b>Production-minded builder</b></p>
+      <p>Design for the incident, the operator, the next maintainer, and the real user path.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Current Meta</h3>
+      <p><b>Applied AI with engineering discipline</b></p>
+      <p>LLM products, coding-agent memory, developer workflows, and practical AI interfaces.</p>
+    </td>
+  </tr>
+</table>
+
+| Attribute | Current Build |
+|:----------|:--------------|
+| Primary role | Backend and platform engineering |
+| Production focus | Reliability, debuggability, graceful failure modes |
+| Systems I like | APIs, automation platforms, observability tools, developer workflows |
+| AI lane | Applied AI products, coding-agent tooling, practical LLM integrations |
+| Engineering style | Simple interfaces, strong feedback loops, measurable behavior |
+
+I like the kind of engineering where the win condition is not just "it works", but "it keeps working, explains itself when it does not, and is easy for the next engineer to operate."
 
 ---
 
-## 🧰 EQUIPPED LOADOUT
+## ENGINEERING HUD
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Runtime Layer</h3>
+      <ul>
+        <li>Backend services that handle real traffic, real failure modes, and real operational expectations.</li>
+        <li>APIs with explicit contracts, stable behavior, useful errors, and enough telemetry to debug them.</li>
+        <li>Automation that removes repeatable toil from development, review, release, and investigation loops.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Control Layer</h3>
+      <ul>
+        <li>Observability through traces, metrics, actuator endpoints, request timelines, health checks, and logs.</li>
+        <li>Debugging across service boundaries, runtime behavior, infrastructure symptoms, and data paths.</li>
+        <li>Applied AI tools that improve engineering leverage without hiding system fundamentals.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Build Priorities</h3>
+      <p>Small interfaces. Strong feedback loops. Measurable behavior. Clear ownership. Fast recovery.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Failure Strategy</h3>
+      <p>Reduce blast radius, expose signals early, preserve useful context, and make the next incident shorter.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## CORE LOADOUT
 
 <div align="center">
 
@@ -86,28 +162,62 @@ Outside work, I ship open-source developer tools and turn applied-AI experiments
 
 ---
 
-## 🗺️ MISSION SELECT
+## BOSS FIGHTS I CHOOSE
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h3>💘 DateSense</h3>
-      <p><b>Genre:</b> AI conversation analyzer</p>
+    <td width="50%" valign="top">
+      <h3>Production Reliability</h3>
+      <p><b>Boss pattern:</b> noisy failures, weak signals, unclear ownership.</p>
+      <p><b>Counter:</b> sharper observability, smaller blast radius, explicit contracts, faster recovery paths.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>API + Platform Design</h3>
+      <p><b>Boss pattern:</b> unclear boundaries, accidental coupling, fragile consumers.</p>
+      <p><b>Counter:</b> stable interfaces, defensive design, useful errors, automation around the workflow.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Deep Debugging</h3>
+      <p><b>Boss pattern:</b> symptoms scattered across code, runtime, infra, and data.</p>
+      <p><b>Counter:</b> trace the path, reduce uncertainty, isolate the failure, prove the fix with evidence.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Applied AI Products</h3>
+      <p><b>Boss pattern:</b> impressive demos that collapse in real workflows.</p>
+      <p><b>Counter:</b> grounded UX, constrained systems, reliable integrations, measurable usefulness.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## MISSION SELECT
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h3>DateSense</h3>
+      <p><b>Mission Type:</b> Applied AI product</p>
       <p>Conversation analysis, attraction scoring, ghosting-risk signals, and context-aware reply suggestions.</p>
+      <p><b>Engineering Loop:</b> user signal -> AI interpretation -> practical next action.</p>
       <a href="https://beingmartinbmc.github.io/DateSense/"><img src="https://img.shields.io/badge/PLAY-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play DateSense" /></a>
       <a href="https://github.com/beingmartinbmc/DateSense"><img src="https://img.shields.io/badge/CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="DateSense source code" /></a>
     </td>
-    <td align="center" width="33%">
-      <h3>🙏 Epic — Divine Wisdom</h3>
-      <p><b>Genre:</b> AI knowledge quest</p>
+    <td align="center" width="33%" valign="top">
+      <h3>Epic: Divine Wisdom</h3>
+      <p><b>Mission Type:</b> AI knowledge system</p>
       <p>Personalized guidance across sacred texts, traditions, languages, and reflective modes.</p>
-      <a href="https://beingmartinbmc.github.io/epic/"><img src="https://img.shields.io/badge/PLAY-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Epic — Divine Wisdom" /></a>
-      <a href="https://github.com/beingmartinbmc/epic"><img src="https://img.shields.io/badge/CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Epic — Divine Wisdom source code" /></a>
+      <p><b>Engineering Loop:</b> content grounding -> user context -> structured guidance.</p>
+      <a href="https://beingmartinbmc.github.io/epic/"><img src="https://img.shields.io/badge/PLAY-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Epic: Divine Wisdom" /></a>
+      <a href="https://github.com/beingmartinbmc/epic"><img src="https://img.shields.io/badge/CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Epic: Divine Wisdom source code" /></a>
     </td>
-    <td align="center" width="33%">
-      <h3>📊 Algorithm Visualizer</h3>
-      <p><b>Genre:</b> Interactive learning</p>
+    <td align="center" width="33%" valign="top">
+      <h3>Algorithm Visualizer</h3>
+      <p><b>Mission Type:</b> Interactive learning tool</p>
       <p>Explore algorithms, data structures, coding games, and Git through interactive visualizations.</p>
+      <p><b>Engineering Loop:</b> abstract concept -> visual state -> hands-on understanding.</p>
       <a href="https://beingmartinbmc.github.io/algorithm-visualizer/"><img src="https://img.shields.io/badge/PLAY-00BFA6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play Algorithm Visualizer" /></a>
       <a href="https://github.com/beingmartinbmc/algorithm-visualizer"><img src="https://img.shields.io/badge/CODE-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Algorithm Visualizer source code" /></a>
     </td>
@@ -116,10 +226,10 @@ Outside work, I ship open-source developer tools and turn applied-AI experiments
 
 ---
 
-## 🎒 OPEN-SOURCE INVENTORY
+## OPEN-SOURCE INVENTORY
 
 <details open>
-<summary><b>Press to inspect collected power-ups</b></summary>
+<summary><b>Inspect shipped tools, packages, and developer power-ups</b></summary>
 <br />
 
 | Drop | Ability | Level | Players |
@@ -131,7 +241,7 @@ Outside work, I ship open-source developer tools and turn applied-AI experiments
 | [**roastcode**](https://www.npmjs.com/package/roastcode) | AI-powered CLI that roasts code, commits, and diffs | ![version](https://img.shields.io/npm/v/roastcode?style=flat-square&color=6C63FF) | ![downloads](https://img.shields.io/npm/dt/roastcode?style=flat-square&color=00BFA6&label=downloads) |
 | [**readme-cinema**](https://www.npmjs.com/package/readme-cinema) | Transform READMEs into cinematic terminal experiences | ![version](https://img.shields.io/npm/v/readme-cinema?style=flat-square&color=6C63FF) | ![downloads](https://img.shields.io/npm/dt/readme-cinema?style=flat-square&color=00BFA6&label=downloads) |
 | [**node-request-trace**](https://www.npmjs.com/package/node-request-trace) | Request tracing and performance visualization for Node.js APIs | ![version](https://img.shields.io/npm/v/node-request-trace?style=flat-square&color=6C63FF) | ![downloads](https://img.shields.io/npm/dt/node-request-trace?style=flat-square&color=00BFA6&label=downloads) |
-| [**node-eventloop-watchdog**](https://www.npmjs.com/package/node-eventloop-watchdog) | Detect event-loop stalls before they become boss fights | ![version](https://img.shields.io/npm/v/node-eventloop-watchdog?style=flat-square&color=6C63FF) | ![downloads](https://img.shields.io/npm/dt/node-eventloop-watchdog?style=flat-square&color=00BFA6&label=downloads) |
+| [**node-eventloop-watchdog**](https://www.npmjs.com/package/node-eventloop-watchdog) | Detect event-loop stalls before they become production boss fights | ![version](https://img.shields.io/npm/v/node-eventloop-watchdog?style=flat-square&color=6C63FF) | ![downloads](https://img.shields.io/npm/dt/node-eventloop-watchdog?style=flat-square&color=00BFA6&label=downloads) |
 | [**pravaah**](https://www.npmjs.com/package/pravaah) | Production-grade Excel, CSV, and JSONL pipelines for Node.js | ![version](https://img.shields.io/npm/v/pravaah?style=flat-square&color=6C63FF) | ![downloads](https://img.shields.io/npm/dt/pravaah?style=flat-square&color=00BFA6&label=downloads) |
 | [**meme-as-a-service**](https://www.npmjs.com/package/meme-as-a-service) | Generate and serve memes programmatically | ![version](https://img.shields.io/npm/v/meme-as-a-service?style=flat-square&color=6C63FF) | ![downloads](https://img.shields.io/npm/dt/meme-as-a-service?style=flat-square&color=00BFA6&label=downloads) |
 | [**eli5**](https://repo1.maven.org/maven2/io/github/beingmartinbmc/eli5/1.0.4/) | AI-powered "explain like I'm five" annotations for Java docs | ![version](https://img.shields.io/maven-central/v/io.github.beingmartinbmc/eli5?style=flat-square&color=6C63FF) | ![java](https://img.shields.io/badge/Java-11+-00BFA6?style=flat-square) |
@@ -140,7 +250,30 @@ Outside work, I ship open-source developer tools and turn applied-AI experiments
 
 ---
 
-## 🏆 HIGH SCORES
+## CONTRIBUTION ARENA
+
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <b>PAC-MAN MODE</b><br />
+      Commits, streaks, and contribution routes rendered as the arena map.
+    </td>
+  </tr>
+</table>
+
+<details open>
+<summary><b>Open arena feed</b></summary>
+<br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating Ankit's GitHub contributions" src="https://raw.githubusercontent.com/beingmartinbmc/beingmartinbmc/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</details>
+
+---
+
+## HIGH SCORES
 
 <div align="center">
 
@@ -160,16 +293,20 @@ Outside work, I ship open-source developer tools and turn applied-AI experiments
 
 ---
 
+## CONTINUE CAMPAIGN
+
 <div align="center">
 
-### `GAME SAVED // CONTINUE?`
+### `SYSTEM READY // SELECT NEXT ROUTE`
+
+I am usually building something in the backend, platform, observability, automation, or applied AI lane. If that overlaps with your map, start with the repositories or npm inventory.
 
 <a href="https://github.com/beingmartinbmc?tab=repositories"><img src="https://img.shields.io/badge/BROWSE_ALL_QUESTS-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" /></a>
 <a href="https://www.npmjs.com/~beingmartinbmc"><img src="https://img.shields.io/badge/OPEN_INVENTORY-00BFA6?style=for-the-badge&logo=npm&logoColor=white" alt="Browse all npm packages" /></a>
 
 <br /><br />
 
-<sub>Built one side quest at a time by <a href="https://github.com/beingmartinbmc">@beingmartinbmc</a>.</sub>
+<sub>Built one production boss fight at a time by <a href="https://github.com/beingmartinbmc">@beingmartinbmc</a>.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6C63FF,100:00F5D4&height=110&section=footer" alt="" width="100%" />
 
