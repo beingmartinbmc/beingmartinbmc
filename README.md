@@ -22,18 +22,31 @@
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <pre>BOOT TARGET     : production-grade engineering profile
-PLAYER          : Ankit Sharma
-CURRENT ROLE    : Senior Member of Technical Staff @ Salesforce
-PRIMARY CLASS   : Backend / Platform Engineer
-SPECIAL ABILITY : turning complex systems into reliable workflows
-ACTIVE QUEST    : APIs, automation, observability, applied AI products</pre>
-      <p>I build backend and platform systems that are easier to operate, debug, and trust under production pressure.</p>
-      <p>My work sits where service architecture, API design, automation, observability, and applied AI meet. The goal is not just to ship features. The goal is to build systems with clear contracts, useful signals, controlled failure modes, and enough leverage that teams can move faster without flying blind.</p>
+    <td width="42%" valign="top" align="center">
+      <pre>:::.::..:::-:::+*###*=+==*=:.--+=:
+.:-.:-==:--+++*#*=-=+++=========:.
+.-+++-:--:::=+=:... ..:-=++*##+=::
+::--==:=*=:-=- .=**-..  :+++#*++=:
+.:..:::::-=*+: .-----:  .=**+=++-:
+.::---::::::--:.--===-  :**++++*=-
+..:===-.:::-==+=.-==:--.:=+===++-:
+.:-::-=-:-**=-:.. .::-==-:::::-:=-
+....::---**+::.:.....:++=.....:--:
+:--:::...:::--::..::-**+--:... .:.
+.:--::. .::.::==-...:*++-++-::.::.
+:-+=::. .. .-:.::::::::..:::==----
+.:--::.::::::::--=+==:::--====:::.
+:::-=---:. .:::=----=+++==-=--.:::
+.-:.--:-..:=+=---.  .---.:=+-....
+.:-:--:..::-==+++=..:::. -=-. ....</pre>
     </td>
-    <td width="42%" valign="top">
-      <h3>HUD Status</h3>
+    <td width="58%" valign="top">
+      <h3>Ankit Sharma</h3>
+      <p><b>Senior Member of Technical Staff @ Salesforce</b></p>
+      <p><b>Class:</b> Backend / Platform Engineer</p>
+      <p><b>Specialization:</b> reliable services, APIs, automation, observability, applied AI products.</p>
+      <p>I build backend and platform systems that are easier to operate, debug, and trust under production pressure.</p>
+      <p>The goal is not just to ship features. The goal is to build systems with clear contracts, useful signals, controlled failure modes, and enough leverage that teams can move faster without flying blind.</p>
       <table>
         <tr><td>Backend systems</td><td><b>ONLINE</b></td></tr>
         <tr><td>Platform engineering</td><td><b>ONLINE</b></td></tr>
