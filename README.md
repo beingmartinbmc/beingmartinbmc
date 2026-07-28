@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:6C63FF,100:00F5D4&height=230&section=header&text=ANKIT%20SHARMA&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=SAVE%20FILE%2001%20%2F%2F%20BACKEND%20%2F%2F%20PLATFORM%20ENGINEER&descAlignY=60&descSize=15&animation=fadeIn" alt="Ankit Sharma — backend and platform engineer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,45:6C63FF,100:00F5D4&height=230&section=header&text=ANKIT%20SHARMA&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=SAVE%20FILE%2001%20%2F%2F%20BACKEND%20%2F%2F%20PLATFORM%20ENGINEER&descAlignY=60&descSize=15&animation=fadeIn" alt="Ankit Sharma — backend and platform engineer" width="100%" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2900&pause=900&color=00F5D4&center=true&vCenter=true&width=800&height=50&lines=BUILD+SYSTEMS+THAT+SURVIVE+PRODUCTION;SHIP+TOOLS+THAT+SHORTEN+THE+NEXT+INCIDENT;TURN+APPLIED+AI+INTO+THINGS+PEOPLE+USE;THE+RUN+IS+STILL+GOING" alt="Animated tagline" />
 
